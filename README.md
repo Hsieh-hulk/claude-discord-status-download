@@ -31,6 +31,8 @@ Claude 桌面版開著的時候，讓 Discord 自動顯示「正在遊玩 Claude
 
 安裝完就會開始運作，之後每次開機也會自動執行，不需要任何設定。
 
+> **看不到動態？** 這個開關是每個 Discord 帳號各自設定的：請在目前登入的帳號打開「使用者設定 → 活動隱私 → 分享你的活動狀態」，並確認狀態不是「隱形」。動態會顯示在這台電腦的 Discord 目前登入的帳號上。
+
 ### 解除安裝
 
 Windows「設定 → 應用程式 → 已安裝的應用程式」找到 **Claude Discord Status**，按解除安裝。
@@ -67,6 +69,8 @@ Close the Claude window and the status goes away.
 3. Pick a folder and click through to the end.
 
 It starts right away and runs every time you sign in to Windows. There is nothing to set up.
+
+> **No status showing?** This switch is per Discord account: on the account signed in to Discord on this PC, turn on "User Settings → Activity Privacy → Share your detected activities", and make sure your status is not Invisible.
 
 ### Uninstall
 
