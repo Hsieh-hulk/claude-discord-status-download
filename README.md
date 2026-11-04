@@ -8,7 +8,7 @@
 
 ## 繁體中文
 
-Claude 桌面版開著的時候，讓 Discord 自動顯示「正在觀看 Claude」，並附上：
+Claude 桌面版開著的時候，讓 Discord 自動顯示「正在玩 Claude」，並附上：
 
 - 你正在看的專案或群組名稱（不會顯示資料夾路徑）
 - Claude 是「思考中」還是「閒置」（文字跟著 Windows 語言）
@@ -47,7 +47,7 @@ Windows「設定 → 應用程式 → 已安裝的應用程式」找到 **Claude
 
 ## English
 
-While the Claude desktop app is open, your Discord profile shows "Watching Claude" with:
+While the Claude desktop app is open, your Discord profile shows "Playing Claude" with:
 
 - The project or group you are looking at (never the folder path)
 - Whether Claude is thinking or idle (in your Windows display language)
