@@ -8,7 +8,7 @@
 
 ## 繁體中文
 
-Claude 桌面版開著的時候，讓 Discord 自動顯示「正在遊玩 Claude」，並附上：
+Claude 桌面版開著的時候，讓 Discord 自動顯示「正在觀看 Claude」，並附上：
 
 - 你正在看的專案或群組名稱（不會顯示資料夾路徑）
 - Claude 是「思考中」還是「閒置」（文字跟著 Windows 語言）
@@ -29,7 +29,7 @@ Claude 桌面版開著的時候，讓 Discord 自動顯示「正在遊玩 Claude
 2. 執行安裝檔。因為安裝檔沒有付費的程式碼簽章，Windows 可能會跳出「Windows 已保護您的電腦」。請按 **其他資訊** → **仍要執行**。
 3. 選擇要安裝的資料夾，按下一步直到完成。
 
-安裝完就會開始運作，之後每次開機也會自動執行，不需要任何設定。
+安裝完就會開始運作，之後每次登入 Windows 也會自動啟動（和 Claude、Discord 差不多同時開始），不需要任何設定。要取消開機自動執行，到「設定 → 應用程式 → 啟動」關掉 **Claude Discord Status**。
 
 > **看不到動態？** 這個開關是每個 Discord 帳號各自設定的：請在目前登入的帳號打開「使用者設定 → 活動隱私 → 分享你的活動狀態」，並確認狀態不是「隱形」。如果還是沒有，請從系統匣（或工作管理員）完全結束 Discord 再重新打開。動態會顯示在這台電腦的 Discord 目前登入的帳號上。
 
@@ -47,7 +47,7 @@ Windows「設定 → 應用程式 → 已安裝的應用程式」找到 **Claude
 
 ## English
 
-While the Claude desktop app is open, your Discord profile shows "Playing Claude" with:
+While the Claude desktop app is open, your Discord profile shows "Watching Claude" with:
 
 - The project or group you are looking at (never the folder path)
 - Whether Claude is thinking or idle (in your Windows display language)
@@ -68,7 +68,7 @@ Close the Claude window and the status goes away.
 2. Run it. The installer is not code-signed, so Windows may show "Windows protected your PC". Click **More info** → **Run anyway**.
 3. Pick a folder and click through to the end.
 
-It starts right away and runs every time you sign in to Windows. There is nothing to set up.
+It starts right away and runs every time you sign in to Windows, at about the same time as Claude and Discord. There is nothing to set up. To turn off autostart, go to "Settings → Apps → Startup" and switch off **Claude Discord Status**.
 
 > **No status showing?** This switch is per Discord account: on the account signed in to Discord on this PC, turn on "User Settings → Activity Privacy → Share your detected activities", and make sure your status is not Invisible. If it still does not show, fully quit Discord from the system tray (or Task Manager) and open it again.
 
